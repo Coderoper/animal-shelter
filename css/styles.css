@@ -1,0 +1,43 @@
+body {
+  background-image: url("https://cdn.pixabay.com/photo/2018/03/11/20/25/wooden-background-3217987_1280.jpg");
+  background-size:100%;
+}
+img {
+  margin:0 auto 0 auto;
+  max-width: 90%;
+  max-height: 250px;
+  border: 2px solid grey;
+  border-radius: 50%;
+}
+.animal-column {
+  width: 45%;
+  float: left;
+}
+
+.column-right {
+  width: 45%;
+  float: right;
+}
+
+.animal-profile {
+  height: 300px;
+  margin: 30px;
+  width: 90%;
+  border-style:groove;
+  background-color: #839dc6;
+}
+.profile-picture {
+  align-items: center;
+  width: 60%;
+  float: right;
+}
+.animal-information {
+  width: 40%;
+}
+h3 {
+  margin: 15px;
+  font-weight: 800;
+}
+ul {
+  margin: 10px;
+}
