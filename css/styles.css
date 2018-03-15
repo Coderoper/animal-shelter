@@ -48,3 +48,12 @@ ul {
   background-color: #839dc6;
   max-width: 50%;
 }
+@media screen and (max-width: 480px min-width: 300px) {
+  .column-right {
+    width: 45%;
+    text-align: center;
+  }
+  .profile-picture {
+    align-items: center;
+    width: 60%;
+}
