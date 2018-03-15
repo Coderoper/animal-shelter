@@ -5,7 +5,7 @@ body {
 img {
   margin:0 auto 0 auto;
   max-width: 90%;
-  max-height: 250px;
+  max-height: 240px;
   border: 2px solid grey;
   border-radius: 50%;
 }
@@ -40,4 +40,11 @@ h3 {
 }
 ul {
   margin: 10px;
+}
+.title-box {
+  margin: 0 auto 0 auto;
+  border-style: groove;
+  text-align: center;
+  background-color: #839dc6;
+  max-width: 50%;
 }
